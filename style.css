@@ -374,17 +374,3 @@ td {
 
 
 
-
-/*SP*/
-@media(max-height:680px){
- .carousel-item{
-  width: 80%;
-  margin:0 10%;
- }
-  
-}
-
-@media(min-width:960px){
-  
-  
-}
