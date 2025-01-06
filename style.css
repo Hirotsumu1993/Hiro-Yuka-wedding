@@ -9,10 +9,6 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    background-image: url(img/top-2.png);
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center;
     font-family: "Limelight", serif;
   }
   p {
@@ -55,6 +51,11 @@
 /*Hero*/
 .Hero{
   height: 100vh;
+  padding: 1px;
+  background-image: url(img/top-2.png);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
 }
 
 /*welcome*/
