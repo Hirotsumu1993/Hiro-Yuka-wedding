@@ -110,9 +110,9 @@
 
   .Hero {
     background-attachment: scroll; /* モバイル向けにスクロールに変更 */
-    background-size: contain; /* 背景画像の全体を表示（余白ができる場合あり） */
+    background-size: cover; /* 背景画像の全体を表示（余白ができる場合あり） */
     background-position: center; /* 中央に固定 */
-    height: auto; /* 必要に応じて高さを自動調整 */
+    height: 100vh; /* 必要に応じて高さを自動調整 */
     }
 }
 
