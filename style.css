@@ -130,7 +130,8 @@
   }
 
   .Hero {
-    background-size: contain; /* 背景全体を表示 */
+    height: 100vh;
+    background-size: cover; /* 背景全体を表示 */
     background-attachment: scroll; /* 固定解除 */
   }
 }
